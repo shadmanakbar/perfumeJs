@@ -53,7 +53,8 @@ networkInformation: true,
  analyticsTracker
 }); };
 
-Calling perfume js in react components:
+
+**Calling perfume js in react components:**
 
 componentDidMount() {
 
