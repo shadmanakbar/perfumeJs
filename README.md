@@ -77,6 +77,7 @@ window.addEventListener("message", function (e) {
 }, []);
 
 Open chrome browser console after starting application to look into performance metrics: 
+
 ![image](https://user-images.githubusercontent.com/23724530/148425867-93647191-9b16-4c15-8ab1-a9a1eea77f5a.png)
 
 
