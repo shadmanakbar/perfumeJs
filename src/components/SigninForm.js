@@ -47,7 +47,7 @@ componentDidMount() {
 
   componentDidUpdate() {
 
-    this.perfume = perfume('SignIn');
+    this.perfume = perfume();
 
 
     }

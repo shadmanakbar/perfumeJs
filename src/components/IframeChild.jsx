@@ -15,7 +15,7 @@ export const IframeChild = () => {
     window.addEventListener("message", function (e) {
       if (e.origin !== "http://localhost:3000") return;
       setRecievedMessage("Got this message from parent: " + e.data);
-        this.perfume = perfume('Child Frame');
+        this.perfume = perfume();
     });
   }, []);
 
