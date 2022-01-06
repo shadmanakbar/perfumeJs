@@ -88,6 +88,7 @@ useEffect(() => {
     
 
 Open chrome browser console after starting application to look into performance metrics:
-![image](https://user-images.githubusercontent.com/23724530/148424060-9df8396b-c21d-45e4-b255-7ec707ec062c.png)
+![image](https://user-images.githubusercontent.com/23724530/148424743-da571072-b6a8-417e-9428-510da36c2a42.png)
+
 
 Happy Hacking :) 
