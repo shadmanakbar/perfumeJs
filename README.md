@@ -1,4 +1,3 @@
-perfumeJs with React
 Perfume JS integration with react js application for client side performance
 
 How to Run:
