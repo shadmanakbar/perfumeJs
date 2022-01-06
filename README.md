@@ -67,6 +67,8 @@ componentDidUpdate() {
 this.perfume = perfume();
 
 }
+
+
 useEffect(() => {
 
 window.addEventListener("message", function (e) {
@@ -74,6 +76,7 @@ window.addEventListener("message", function (e) {
     this.perfume = perfume()
     
 });
+
 }, []);
 
 **Open chrome browser console after starting application to look into performance metrics: **
