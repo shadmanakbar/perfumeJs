@@ -1,8 +1,7 @@
 # perfumeJs with React
 Perfume JS integration with react js application for client side performance test
 
-How to Run
-command:
+How to Run:
 
 **npm install**
 
@@ -90,3 +89,5 @@ useEffect(() => {
 
 Open chrome browser console after starting application to look into performance metrics:
 ![image](https://user-images.githubusercontent.com/23724530/148424060-9df8396b-c21d-45e4-b255-7ec707ec062c.png)
+
+Happy Hacking :) 
